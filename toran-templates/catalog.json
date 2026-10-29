@@ -3,6 +3,129 @@
   "updated": "2026-10-29",
   "templates": [
     {
+      "id": "kalyana-mandapam",
+      "version": 1,
+      "name": "Kalyana Mandapam",
+      "nameTe": "కళ్యాణ మండపం",
+      "ceremonies": [
+        "wedding",
+        "engagement"
+      ],
+      "art": "art/kalyana-mandapam.webp",
+      "thumb": "thumbs/kalyana-mandapam.webp",
+      "textBox": [
+        52,
+        40,
+        308,
+        340
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#4A1A20",
+        "accent": "#9A1F3A"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "vratham-pooja",
+      "version": 1,
+      "name": "Pooja Mandapam",
+      "nameTe": "వ్రత మండపం",
+      "ceremonies": [
+        "satyanarayana",
+        "housewarming"
+      ],
+      "art": "art/vratham-pooja.webp",
+      "thumb": "thumbs/vratham-pooja.webp",
+      "textBox": [
+        44,
+        60,
+        316,
+        400
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#4A2E1A",
+        "accent": "#A23B1F"
+      },
+      "fonts": {
+        "teTitle": "Ramabhadra",
+        "teBody": "Mandali",
+        "enTitle": "Cinzel",
+        "enNames": "Great Vibes",
+        "enBody": "Lora"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "seemantham-gajulu",
+      "version": 1,
+      "name": "Bangle Ceremony",
+      "nameTe": "గాజుల సీమంతం",
+      "ceremonies": [
+        "seemantham"
+      ],
+      "art": "art/seemantham-gajulu.webp",
+      "thumb": "thumbs/seemantham-gajulu.webp",
+      "textBox": [
+        78,
+        60,
+        282,
+        410
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#3D2A1E",
+        "accent": "#1E7A4A"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "barasala-uyyala",
+      "version": 1,
+      "name": "Uyyala Cradle",
+      "nameTe": "ఉయ్యాల",
+      "ceremonies": [
+        "barasala",
+        "annaprasana"
+      ],
+      "art": "art/barasala-uyyala.webp",
+      "thumb": "thumbs/barasala-uyyala.webp",
+      "textBox": [
+        52,
+        40,
+        308,
+        380
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#3E2A4A",
+        "accent": "#B0306A"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
       "id": "temple-walk",
       "version": 1,
       "name": "Temple Walk",
