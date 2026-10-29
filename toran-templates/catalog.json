@@ -3,6 +3,69 @@
   "updated": "2026-10-29",
   "templates": [
     {
+      "id": "church-doves",
+      "version": 1,
+      "name": "Chapel & Doves",
+      "nameTe": "చర్చి పావురాలు",
+      "ceremonies": [
+        "holyMatrimony",
+        "betrothal"
+      ],
+      "art": "art/church-doves.webp",
+      "thumb": "thumbs/church-doves.webp",
+      "textBox": [
+        44,
+        96,
+        316,
+        310
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#2E2A40",
+        "accent": "#6A3E8E"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "nikah-mehrab",
+      "version": 1,
+      "name": "Mehrab & Lanterns",
+      "nameTe": "మెహ్రాబ్ నిఖా",
+      "ceremonies": [
+        "nikah",
+        "mangni",
+        "walima"
+      ],
+      "art": "art/nikah-mehrab.webp",
+      "thumb": "thumbs/nikah-mehrab.webp",
+      "textBox": [
+        80,
+        64,
+        280,
+        430
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#3A2A1A",
+        "accent": "#0F5C57"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
       "id": "kalyana-mandapam",
       "version": 1,
       "name": "Kalyana Mandapam",
