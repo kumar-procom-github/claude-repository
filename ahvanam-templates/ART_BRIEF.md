@@ -1,4 +1,4 @@
-# Toran — art brief for illustrated designs
+# Ahvanam — art brief for illustrated designs
 
 Goal: the soft, illustrated South-Indian look of the cards on Instagram / Crafty Art /
 SeeMyMarriage — but made for our app, where **the app writes the text** on top.

@@ -1,4 +1,4 @@
-# Toran template catalog
+# Ahvanam template catalog
 
 This folder is what the app downloads when users tap **Refresh** on the design screen.
 It holds illustrated designs (artwork + text area + colours + fonts). Add designs here
@@ -12,20 +12,20 @@ template-catalog/
 ```
 
 ## Add a design
-1. Open **Toran Template Studio** (the web tool), upload the artwork.
+1. Open **Ahvanam Template Studio** (the web tool), upload the artwork.
 2. Drag the text box to where the wording should sit, pick colours/fonts, check
    the Telugu and English preview.
 3. Save the artwork → `art/`, thumbnail → `thumbs/`, load + save `catalog.json` here.
 4. Commit and push.
 
 ## Free hosting (GitHub + jsDelivr)
-1. Create a **public** GitHub repo, e.g. `toran-templates`, and push this folder's
+1. Create a **public** GitHub repo, e.g. `ahvanam-templates`, and push this folder's
    contents to its root.
 2. In the app, set `lib/config.dart`:
-   `https://cdn.jsdelivr.net/gh/<github-user>/toran-templates@main/catalog.json`
+   `https://cdn.jsdelivr.net/gh/<github-user>/ahvanam-templates@main/catalog.json`
 3. After every push, clear the CDN cache so phones see it immediately (otherwise
    up to ~12 hours) by opening:
-   `https://purge.jsdelivr.net/gh/<github-user>/toran-templates@main/catalog.json`
+   `https://purge.jsdelivr.net/gh/<github-user>/ahvanam-templates@main/catalog.json`
    (Artwork files never need purging: each new version gets a new file name in the
    app's cache because the `version` number is part of it.)
 
