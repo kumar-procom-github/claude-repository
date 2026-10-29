@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "updated": "2026-10-29",
+  "templates": [
+    {
+      "id": "temple-walk",
+      "version": 1,
+      "name": "Temple Walk",
+      "nameTe": "గుడి దారి",
+      "ceremonies": [
+        "wedding",
+        "engagement"
+      ],
+      "art": "art/temple-walk.webp",
+      "thumb": "thumbs/temple-walk.webp",
+      "textBox": [
+        62,
+        56,
+        298,
+        362
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#4A2418",
+        "accent": "#9A2A1E"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "red-arch-couple",
+      "version": 1,
+      "name": "Red Arch Couple",
+      "nameTe": "ఎర్ర ద్వారం జంట",
+      "ceremonies": [
+        "wedding",
+        "engagement"
+      ],
+      "art": "art/red-arch-couple.webp",
+      "thumb": "thumbs/red-arch-couple.webp",
+      "textBox": [
+        76,
+        96,
+        284,
+        440
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#4A1A20",
+        "accent": "#8A1A2B"
+      },
+      "fonts": {
+        "teTitle": "Ramabhadra",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "new-home-toran",
+      "version": 1,
+      "name": "New Home Toran",
+      "nameTe": "నూతన గృహం",
+      "ceremonies": [
+        "housewarming",
+        "satyanarayana"
+      ],
+      "art": "art/new-home-toran.webp",
+      "thumb": "thumbs/new-home-toran.webp",
+      "textBox": [
+        52,
+        40,
+        308,
+        380
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#4A2E1A",
+        "accent": "#A23B1F"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    }
+  ]
+}
