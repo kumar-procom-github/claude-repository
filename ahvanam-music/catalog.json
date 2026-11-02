@@ -1,0 +1,78 @@
+{
+ "version": 1,
+ "updated": "2026-11-02",
+ "tracks": [
+  {
+   "id": "sannayi",
+   "title": "Sannayi",
+   "titleTe": "సన్నాయి",
+   "mood": "wedding",
+   "file": "tracks/sannayi.m4a",
+   "seconds": 60,
+   "credit": "Ahvanam Originals · free to use"
+  },
+  {
+   "id": "swagatham",
+   "title": "Swagatham",
+   "titleTe": "స్వాగతం",
+   "mood": "celebration",
+   "file": "tracks/swagatham.m4a",
+   "seconds": 60,
+   "credit": "Ahvanam Originals · free to use"
+  },
+  {
+   "id": "deepotsavam",
+   "title": "Deepotsavam",
+   "titleTe": "దీపోత్సవం",
+   "mood": "festive",
+   "file": "tracks/deepotsavam.m4a",
+   "seconds": 60,
+   "credit": "Ahvanam Originals · free to use"
+  },
+  {
+   "id": "bhakti",
+   "title": "Bhakti",
+   "titleTe": "భక్తి",
+   "mood": "devotional",
+   "file": "tracks/bhakti.m4a",
+   "seconds": 60,
+   "credit": "Ahvanam Originals · free to use"
+  },
+  {
+   "id": "madhuram",
+   "title": "Madhuram",
+   "titleTe": "మధురం",
+   "mood": "soft",
+   "file": "tracks/madhuram.m4a",
+   "seconds": 60,
+   "credit": "Ahvanam Originals · free to use"
+  },
+  {
+   "id": "shanti-bells",
+   "title": "Shanti Bells",
+   "titleTe": "శాంతి గంటలు",
+   "mood": "christian",
+   "file": "tracks/shanti-bells.m4a",
+   "seconds": 60,
+   "credit": "Ahvanam Originals · free to use"
+  },
+  {
+   "id": "noor",
+   "title": "Noor",
+   "titleTe": "నూర్",
+   "mood": "eid",
+   "file": "tracks/noor.m4a",
+   "seconds": 60,
+   "credit": "Ahvanam Originals · free to use"
+  },
+  {
+   "id": "happy-day",
+   "title": "Happy Day",
+   "titleTe": "హ్యాపీ డే",
+   "mood": "birthday",
+   "file": "tracks/happy-day.m4a",
+   "seconds": 60,
+   "credit": "Ahvanam Originals · free to use"
+  }
+ ]
+}
