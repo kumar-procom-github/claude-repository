@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "updated": "2026-10-29",
+  "templates": [
+    {
+      "id": "church-doves",
+      "version": 1,
+      "name": "Chapel & Doves",
+      "nameTe": "చర్చి పావురాలు",
+      "ceremonies": [
+        "holyMatrimony",
+        "betrothal"
+      ],
+      "art": "art/church-doves.webp",
+      "thumb": "thumbs/church-doves.webp",
+      "textBox": [
+        44,
+        96,
+        316,
+        310
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#2E2A40",
+        "accent": "#6A3E8E"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "nikah-mehrab",
+      "version": 1,
+      "name": "Mehrab & Lanterns",
+      "nameTe": "మెహ్రాబ్ నిఖా",
+      "ceremonies": [
+        "nikah",
+        "mangni",
+        "walima"
+      ],
+      "art": "art/nikah-mehrab.webp",
+      "thumb": "thumbs/nikah-mehrab.webp",
+      "textBox": [
+        80,
+        64,
+        280,
+        430
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#3A2A1A",
+        "accent": "#0F5C57"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "kalyana-mandapam",
+      "version": 1,
+      "name": "Kalyana Mandapam",
+      "nameTe": "కళ్యాణ మండపం",
+      "ceremonies": [
+        "wedding",
+        "engagement"
+      ],
+      "art": "art/kalyana-mandapam.webp",
+      "thumb": "thumbs/kalyana-mandapam.webp",
+      "textBox": [
+        52,
+        40,
+        308,
+        340
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#4A1A20",
+        "accent": "#9A1F3A"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "vratham-pooja",
+      "version": 1,
+      "name": "Pooja Mandapam",
+      "nameTe": "వ్రత మండపం",
+      "ceremonies": [
+        "satyanarayana",
+        "housewarming"
+      ],
+      "art": "art/vratham-pooja.webp",
+      "thumb": "thumbs/vratham-pooja.webp",
+      "textBox": [
+        44,
+        60,
+        316,
+        400
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#4A2E1A",
+        "accent": "#A23B1F"
+      },
+      "fonts": {
+        "teTitle": "Ramabhadra",
+        "teBody": "Mandali",
+        "enTitle": "Cinzel",
+        "enNames": "Great Vibes",
+        "enBody": "Lora"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "seemantham-gajulu",
+      "version": 1,
+      "name": "Bangle Ceremony",
+      "nameTe": "గాజుల సీమంతం",
+      "ceremonies": [
+        "seemantham"
+      ],
+      "art": "art/seemantham-gajulu.webp",
+      "thumb": "thumbs/seemantham-gajulu.webp",
+      "textBox": [
+        78,
+        60,
+        282,
+        410
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#3D2A1E",
+        "accent": "#1E7A4A"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "barasala-uyyala",
+      "version": 1,
+      "name": "Uyyala Cradle",
+      "nameTe": "ఉయ్యాల",
+      "ceremonies": [
+        "barasala",
+        "annaprasana"
+      ],
+      "art": "art/barasala-uyyala.webp",
+      "thumb": "thumbs/barasala-uyyala.webp",
+      "textBox": [
+        52,
+        40,
+        308,
+        380
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#3E2A4A",
+        "accent": "#B0306A"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "temple-walk",
+      "version": 1,
+      "name": "Temple Walk",
+      "nameTe": "గుడి దారి",
+      "ceremonies": [
+        "wedding",
+        "engagement"
+      ],
+      "art": "art/temple-walk.webp",
+      "thumb": "thumbs/temple-walk.webp",
+      "textBox": [
+        62,
+        56,
+        298,
+        362
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#4A2418",
+        "accent": "#9A2A1E"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "red-arch-couple",
+      "version": 1,
+      "name": "Red Arch Couple",
+      "nameTe": "ఎర్ర ద్వారం జంట",
+      "ceremonies": [
+        "wedding",
+        "engagement"
+      ],
+      "art": "art/red-arch-couple.webp",
+      "thumb": "thumbs/red-arch-couple.webp",
+      "textBox": [
+        76,
+        96,
+        284,
+        440
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#4A1A20",
+        "accent": "#8A1A2B"
+      },
+      "fonts": {
+        "teTitle": "Ramabhadra",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    },
+    {
+      "id": "new-home-toran",
+      "version": 1,
+      "name": "New Home Toran",
+      "nameTe": "నూతన గృహం",
+      "ceremonies": [
+        "housewarming",
+        "satyanarayana"
+      ],
+      "art": "art/new-home-toran.webp",
+      "thumb": "thumbs/new-home-toran.webp",
+      "textBox": [
+        52,
+        40,
+        308,
+        380
+      ],
+      "scrim": 0,
+      "colors": {
+        "text": "#4A2E1A",
+        "accent": "#A23B1F"
+      },
+      "fonts": {
+        "teTitle": "Suranna",
+        "teBody": "Mandali",
+        "enTitle": "Cormorant SC",
+        "enNames": "Pinyon Script",
+        "enBody": "Cormorant Garamond"
+      },
+      "added": "2026-10-29"
+    }
+  ]
+}
